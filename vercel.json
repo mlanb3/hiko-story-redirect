@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://hiko-story.com/:path*",
+      "permanent": true
+    }
+  ]
+}
